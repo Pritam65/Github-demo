@@ -1,7 +1,2 @@
-# Demo
+# Read me
 
-# Eddited
-
-## Subheadding
-
-Some text
